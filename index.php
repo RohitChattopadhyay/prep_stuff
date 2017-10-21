@@ -46,7 +46,7 @@
          <div class="section jumbo">
             <div class="logos">
                <img src="assets/images/main_logo.png"/>
-               <img src= "assets/images/main_logo2.png"/>
+               <img src= "assets/images/main_logo2.gif"/>
             </div>
             <div class="headingz">
                <span style="font-size: 60px"> JADAVPUR UNIVERSITY<br> E CELL</span>
