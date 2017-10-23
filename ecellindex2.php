@@ -1,7 +1,5 @@
-<? php
-$name ='Daipayan Mukherjee';
 
-?>
+
 
 <html>
 <head>
@@ -10,8 +8,8 @@ $name ='Daipayan Mukherjee';
       content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
       <link rel="stlyesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-      <link rel="stylesheet" type="text/css" href="styles.css">
-      <link rel="stylesheet" type="text/css" href="assets/modaForm.css">
+      <link rel="stylesheet" type="text/css" href="assets/styles.css">
+      <link rel="stylesheet" type="text/css" href="assets/modalForm.css">
 
       <link rel="stylesheet" type="text/css" href="assets/contactcss.css">
 
@@ -24,14 +22,14 @@ $name ='Daipayan Mukherjee';
 <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
+
     </head>
 
 <body>
 <header class="main_h">
 
-    <div class="roww">
-        <a class="logo" href="#"><img src="main_logo.png"  style="height: 50px"/>
+    <div class="row">
+        <a class="logo" href="#"><img src="assets/images/main_logo.png"  style="height: 50px"/>
       </a>
 
         <div class="mobile-toggle">
@@ -59,8 +57,8 @@ $name ='Daipayan Mukherjee';
 <div class="page">
     <div class="section jumbo">
         <div class="logos">
-            <img src="main_logo.png"/>
-            <img src= "main_logo2.png"/>
+            <img src="assets/images/main_logo.png"/>
+            <img src= "assets/images/main_logo2.png"/>
         </div>
         <div class="headingz">
             <span style="font-size: 60px"> JADAVPUR UNIVERSITY<br> E CELL</span>
@@ -118,7 +116,7 @@ $name ='Daipayan Mukherjee';
 
 
 <div id="test" style="color: white"> 
-<img src="http://www.hultprizesix.com/images/logo-stack.png"  id="recentimg" />
+<img src="https://www.hultprizesix.com/images/logo-stack.png"  id="recentimg" />
 
 </div>
   
@@ -132,7 +130,7 @@ $name ='Daipayan Mukherjee';
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
-            <img src="http://www.idolator.com/wp-content/uploads/sites/10/2013/05/13/daft-punk-random-access-memories.jpg" alt="" />
+            <img src="https://www.idolator.com/wp-content/uploads/sites/10/2013/05/13/daft-punk-random-access-memories.jpg" alt="" />
             <h1>This is a title</h1>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
@@ -161,7 +159,7 @@ $name ='Daipayan Mukherjee';
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
-            <img src="hult-event.jpg" alt="" />
+            <img src="assets/images/hult-event.jpg" alt="" />
             <h1>This is a title</h1>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
@@ -179,7 +177,7 @@ $name ='Daipayan Mukherjee';
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
-            <img src="hult-event.jpg" alt="" />
+            <img src="assets/images/hult-event.jpg" alt="" />
             <h1>This is a title</h1>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
@@ -188,7 +186,7 @@ $name ='Daipayan Mukherjee';
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
-            <img src="abc-event.jpg" alt="" />
+            <img src="assets/images/abc-event.jpg" alt="" />
             <h1>This is a title</h1>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
@@ -206,7 +204,7 @@ $name ='Daipayan Mukherjee';
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
-            <img src="abc-event.jpg" alt="" />
+            <img src="assets/images/abc-event.jpg" alt="" />
             <h1>This is a title</h1>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
@@ -316,15 +314,15 @@ $name ='Daipayan Mukherjee';
 			<div class="carousel slide" data-ride="carousel" id="quote-carousel">
 				<ol class="carousel-indicators">
 					<li data-target="#quote-carousel" data-slide-to="0" class="active">
-					<img src="s.jpg" class="img-responsive">
+					<img src="assets/images/s.jpg" class="img-responsive">
 					
 					</li>
 					<li data-target="#quote-carousel" data-slide-to="1" >
-					<img src="4.jpg" class="img-responsive">
+					<img src="assets/images/4.jpg" class="img-responsive">
 					
 					</li>
 					<li data-target="#quote-carousel" data-slide-to="2" >
-					<img src="4.jpg" class="img-responsive">
+					<img src="assets/images/4.jpg" class="img-responsive">
 					
 					</li>
 				
@@ -336,7 +334,7 @@ $name ='Daipayan Mukherjee';
 							<div class="row">
 								<div class="col-sm-8 col-sm-offset-2">
 									<p>
-									“To any entrepreneu  There is no try.It’s not about ideas. It’s about making ideas happen.I congratulate to all those students who made rigorous efforts to make this idea of an Entrepreneurship Cell in Jadavpur University come to life.”
+									â€œTo any entrepreneu  There is no try.Itâ€™s not about ideas. Itâ€™s about making ideas happen.I congratulate to all those students who made rigorous efforts to make this idea of an Entrepreneurship Cell in Jadavpur University come to life.â€
 									</p>
 									<small>Prof. Suranjan Das</br>Vice Chancellor,Jadavpur University</small>
 									
@@ -348,8 +346,8 @@ $name ='Daipayan Mukherjee';
 						<blockquote>
 							<div class="row">
 								<div class="col-sm-8 col-sm-offset-2">
-									<p>“Planning.Preparing.Building.
-Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight to the top”.It is a place where we enjoy and work.We are not a group of people , we are a family.There are students from all departments here.
+									<p>â€œPlanning.Preparing.Building.
+Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight to the topâ€.It is a place where we enjoy and work.We are not a group of people , we are a family.There are students from all departments here.
 									</p>
 									<small>Arnab Sur</br>CSE UG-II,JU</small>
 									
@@ -389,37 +387,6 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 
 
 
-<div id="pages">
-<div class="rowslide">
-  <div class="col sm-11 small-centered">
-    <div class="slider slider-single">
-      <div><h3>1</h3></div>
-      <div><h3>2</h3></div>
-      <div><h3>3</h3></div>
-      <div><h3>4</h3></div>
-      <div><h3>5</h3></div>
-      <div><h3>6</h3></div>
-      <div><h3>7</h3></div>
-      <div><h3>8</h3></div>
-      <div><h3>9</h3></div>
-      <div><h3>10</h3></div>
-    </div>
-    <div class="slider slider-nav">
-      <div><h3><span>1</span></h3></div>
-      <div><h3><span>2</span></h3></div>
-      <div><h3><span>3</span></h3></div>
-      <div><h3><span>4</span></h3></div>
-      <div><h3><span>5</span></h3></div>
-      <div><h3><span>6</span></h3></div>
-      <div><h3><span>7</span></h3></div>
-      <div><h3><span>8</span></h3></div>
-      <div><h3><span>9</span></h3></div>
-      <div><h3><span>10</span></h3></div>
-    </div>
-  </div>
-</div>
-</div>
-  
 
 
 
@@ -584,8 +551,92 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
             </div>
          </div>
       </div>
-      <!-- Modal content for member ends-->
-      
+	<!-- Modal content for member ends-->
+	<!-- Footer content for member begins-->		
+
+	<div id="footer" class="container" style="background-color:black ; width:100%">
+			<div class="col-sm-1"></div>
+			<div class="col-sm-4">
+				<span><img src="http://juecell.in/hult/wp-content/uploads/2017/10/e-cell-footer_logo-2-273x65.png"  style="margin-top:20px"></span>
+				<hr>
+				<div>
+					<span>
+						Jadavpur University Salt Lake Campus<br>
+						Kolkata, West Bengal
+					</span>
+					<br><br><br>
+					<span style="padding-top:10px">
+						contact@juecell.in
+					</span>
+					<br>
+					<br>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<span>
+					<h2>Navigate</h2>
+				</span>
+				<br>
+				<br>
+				<strong>
+				<span>
+					<a style="color:inherit; text-decoration:none !important" href="#">Home</a><br><br>
+					<a style="color:inherit; text-decoration:none !important"  href="#">Events</a><br><br>
+					<a style="color:inherit; text-decoration:none !important"  href="#">About</a><br><br>
+					<a style="color:inherit; text-decoration:none !important"  href="#">Reach Us</a><br><br>
+					<a style="color:inherit; text-decoration:none !important"  href="#">Testinomial</a><br><br>
+				</span>
+				</strong>
+			</div>
+			<div class="col-sm-3">
+									<span>
+					<h2>Social Media</h2>
+				</span>
+				<br>
+				<br>
+				<strong>
+				<span>
+					<a href="#" class="col-sm-2 footer-social fa fa-facebook"></a>
+					<a href="#" class="col-sm-2 footer-social fa fa-twitter"></a>
+					<a href="#" class="col-sm-2 footer-social fa fa-linkedin"></a>
+					<a href="#" class="col-sm-2 footer-social fa fa-youtube-play"></a>
+					<a href="#" class="col-sm-2 footer-social fa fa-google-plus"></a>
+				</span>
+				</strong>
+			</div>
+			<div class="col-sm-1"></div>
+			</div>
+		</div>
+		<div class="col-xs-12" style="background-color:grey; text-align:center"><div>©2017 Jadavpur University Entrepreneurship Cell</div><div>Crafted by &#128009;</div></div>
+  		<style>
+		.footer-social {
+			font-size:20px;
+			color: inherit;
+			text-decoration:none !important;
+		}
+		
+		.fa-facebook:hover {
+			color:#3b5998;
+		}
+		
+		.fa-linkedin:hover {
+			color:#007bb5;
+		}
+		
+		.fa-twitter:hover {
+			color:#55acee;
+		}
+		
+		.fa-youtube-play:hover {
+			color:#bb0000;
+		}
+		
+		.fa-google-plus:hover {
+			color:#dd4b39;
+		}
+		
+		</style>
+	<!-- Footer content for member ends-->			
 	  </div>
 
 
@@ -718,8 +769,8 @@ $(window).scroll(function() {
 
 
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="slick/slick.min.js"></script>
         <script type="text/javascript">
         $(document).ready(function(){
