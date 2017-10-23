@@ -28,7 +28,7 @@
 <body>
 <header class="main_h">
 
-    <div class="row">
+    <div class="roww">
         <a class="logo" href="#"><img src="assets/images/main_logo.png"  style="height: 50px"/>
       </a>
 
